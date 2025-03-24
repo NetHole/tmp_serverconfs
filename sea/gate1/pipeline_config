@@ -1,0 +1,7 @@
+EnvName=ReleaseOB
+AllServerName=(gate)
+GatePubPort=30001
+GatePubIp=43.128.81.245
+ReplaceReids=1
+AutoReStart=1
+NetLimitCheckTime=1

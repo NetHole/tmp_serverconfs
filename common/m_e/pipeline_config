@@ -1,0 +1,5 @@
+EnvName=Common
+ReplaceReids=1
+AutoReStart=1
+AllServerName=(mail event)
+KfkMsgMustKeepOrder=True

@@ -1,0 +1,5 @@
+EnvName=ReleaseOB
+Offset=1
+AutoReStart=1
+ReplaceReids=1
+AllServerName=(matchnode)

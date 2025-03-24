@@ -1,0 +1,6 @@
+EnvName=ReleaseOB
+AllServerName=(lockstep)
+ReplaceReids=1
+LockstepPublicPort=31002
+LockstepPublicIp=43.134.63.10
+Offset=1

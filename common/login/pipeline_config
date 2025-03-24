@@ -1,0 +1,7 @@
+EnvName=Common
+ReplaceReids=1
+AutoReStart=1
+AllServerName=(login)
+LoginPublicPort=10001
+LoginWhitelistPort=10003
+

@@ -1,0 +1,5 @@
+EnvName=ReleaseOB
+Offset=23
+ReplaceReids=1
+AutoReStart=1
+AllServerName=(matchschedule)

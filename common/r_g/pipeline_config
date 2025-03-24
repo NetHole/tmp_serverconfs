@@ -1,0 +1,5 @@
+EnvName=Common
+Offset=3
+ReplaceReids=1
+AutoReStart=1
+AllServerName=(plygroup room)
