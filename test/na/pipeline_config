@@ -1,0 +1,8 @@
+EnvName=TestReleaseOB
+AllServerName=(fight game lockstep gate matchnode matchschedule)
+Offset=111
+LockstepPublicIp="43.166.226.75"
+KfkMsgMustKeepOrder=True
+GatePubPort=30001
+GatePubIp="43.166.226.75"
+NetLimitCheckTime=1

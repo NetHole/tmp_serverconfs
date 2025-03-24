@@ -1,6 +1,0 @@
-EnvName=Common
-ReplaceReids=1
-AutoReStart=1
-AllServerName=(global asyncreward notice operation)
-NoticePublicPort=11001
-OperationPublicPort=11101

@@ -1,0 +1,8 @@
+EnvName=TestReleaseCommon
+AllServerName=(session rank global event mail asyncreward pay notice operation fightrecord plybasedatacache offlinearena plygroup room)
+OperationPublicPort=33001
+NoticePublicPort=33011
+Offset=110
+ReplaceReids=1
+LoginPublicPort=10001
+LoginWhitelistPort=10003
