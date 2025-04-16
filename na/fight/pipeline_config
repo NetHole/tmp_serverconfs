@@ -1,4 +1,5 @@
 EnvName=ReleaseOB
 Offset=21
 ReplaceReids=1
+DiscoveryFilterTag="ReleaseOB"
 AllServerName=(fight)
