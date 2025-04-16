@@ -1,3 +1,4 @@
 EnvName=ReleaseOB
 ReplaceReids=1
+DiscoveryFilterTag="ReleaseOB"
 AllServerName=(game)
