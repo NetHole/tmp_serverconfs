@@ -1,5 +1,5 @@
 EnvName=TestReleaseCommon
-AllServerName=(session rank global event mail asyncreward pay notice operation fightrecord plybasedatacache offlinearena plygroup room)
+AllServerName=(session rank global event mail asyncreward pay notice operation fightrecord plybasedatacache offlinearena plygroup room chat social)
 OperationPublicPort=33001
 NoticePublicPort=33011
 Offset=110
